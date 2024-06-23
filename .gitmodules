@@ -1,5 +1,12 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/daniellga/daniellga.r-universe.dev
 	branch = HEAD
+[submodule "harmonium"]
+	path = harmonium
+	url = https://github.com/daniellga/harmonium
+	subdir = r-harmonium
+[submodule "rdocs"]
+	path = rdocs
+	url = https://github.com/daniellga/rdocs
+	subdir = rdocs
